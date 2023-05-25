@@ -1,0 +1,50 @@
+img{
+    width: 30%;
+    height: 30%;
+    border: solid;
+}
+.sistemas{
+    background-color: rgb(196, 150, 102);
+    border-style:inset;
+    border-color: black;
+}
+.osi{
+    background-color: rgb(177, 216, 177);
+    border:dotted ;
+}
+.tcp{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.udp{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.dns{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.dhcp{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.ftp{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.http{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.https{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.webserver{
+    background-color:rgb(177, 216, 177);
+    border:dotted;
+}
+.img2{
+    width: 40%;
+    height: 30%;
+}
