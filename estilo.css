@@ -1,7 +1,6 @@
 img{
-    width: 30%;
-    height: 30%;
-    border: solid;
+    width: 200px;
+    height: 200px;
 }
 .sistemas{
     background-color: rgb(196, 150, 102);
@@ -42,9 +41,12 @@ img{
 }
 .webserver{
     background-color:rgb(177, 216, 177);
-    border:dotted;
+    border:dotted;}
+.botao{
+        background-color:rgb(177, 216, 177);
+        border:dotted;
 }
 .img2{
-    width: 40%;
-    height: 30%;
+    width: 8%;
+    height: 8%;
 }
